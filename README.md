@@ -1,5 +1,6 @@
 # Learn Java with Projects
 
+
 <a href="https://www.packtpub.com/product/learn-java-with-projects/9781837637188?utm_source=github&utm_medium=repository&utm_campaign=9781837637188"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71hYjub5mwL._SL1500_.jpg" alt="Learn Java with Projects" height="256px" align="right"></a>
 
 This is the code repository for [Learn Java with Projects](https://www.packtpub.com/product/learn-java-with-projects/9781837637188?utm_source=github&utm_medium=repository&utm_campaign=9781837637188), published by Packt.
